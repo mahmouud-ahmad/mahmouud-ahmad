@@ -21,7 +21,7 @@ I'm Mahmoud Ahmad, a passionate developer who loves working on exciting projects
       <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
 </p>
 
